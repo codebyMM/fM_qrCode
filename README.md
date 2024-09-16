@@ -13,13 +13,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[Desktop Version (1440px)](images/screenshots.png)
-[Mobile Version (375px)](images/screenshotsMobile.png)
+![Desktop Version (1440px)](images/screenshots.png)
+![Mobile Version (375px)](images/screenshotsMobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://codebymm.github.io/fM_qrCode/](https://codebymm.github.io/fM_qrCode/)
 
 ## My process
 
