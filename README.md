@@ -12,8 +12,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
+- Desktop Version (1440px)
 ![Desktop Version (1440px)](images/screenshots.png)
+
+- Mobile Version (375px)
 ![Mobile Version (375px)](images/screenshotsMobile.png)
 
 ### Links

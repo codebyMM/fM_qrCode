@@ -31,9 +31,6 @@ footer {
     font-size: 11px; 
     text-align: center; 
 }
-.attribution a { 
-    color: var(--slate900); 
-}
 /*--------------------- BODY ---------------------*/
 body {
     font-family: var(--outfit);
@@ -58,7 +55,7 @@ body {
     font-size: 1.4em;
     color: var(--slate900);
     max-width: 256px;
-    padding: 1rem 0 1rem;
+    padding: 1.3rem 0 1rem;
     font-weight: var(--fw-700);
 }
 .qr-container p {
